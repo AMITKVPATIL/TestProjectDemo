@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-05T17:42:18 GMT-07:00" name="Default suite" finished-at="2021-08-05T17:42:51 GMT-07:00" duration-ms="32608">
+    <groups>
+    </groups>
+    <test started-at="2021-08-05T17:42:18 GMT-07:00" name="Default test" finished-at="2021-08-05T17:42:51 GMT-07:00" duration-ms="32608">
+      <class name="jbkProjectFramework.testPage.UserRegisterDataDrivenExcel">
+        <test-method signature="TC_01_UserRegisterDataDriven()[pri:0, instance:jbkProjectFramework.testPage.UserRegisterDataDrivenExcel@c03cf28]" started-at="2021-08-05T17:42:19 GMT-07:00" name="TC_01_UserRegisterDataDriven" finished-at="2021-08-05T17:42:51 GMT-07:00" duration-ms="32518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_UserRegisterDataDriven -->
+      </class> <!-- jbkProjectFramework.testPage.UserRegisterDataDrivenExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
